@@ -1,0 +1,3 @@
+这里是素材包，已经经过处理不会再报
+libpngwarning:iCCP:knownincorrectsRGBprofile
+这种错误
