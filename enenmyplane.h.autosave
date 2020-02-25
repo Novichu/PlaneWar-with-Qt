@@ -1,0 +1,15 @@
+#ifndef ENENMYPLANE_H
+#define ENENMYPLANE_H
+#include"config.h"
+#include"QPixmap"
+#include"QRect"
+class enenmyPlane
+{
+public:
+    enenmyPlane();
+    void updatePosition();
+    
+    QPixmap m_enemy
+};
+
+#endif // ENENMYPLANE_H
